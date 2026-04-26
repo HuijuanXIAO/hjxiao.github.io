@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Huijuan XIAO (Jane)"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor @The Hong Kong Baptist University🌍🛰️"
+  bio              : "Assistant Professor @The Hong Kong Baptist University🛰️"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
@@ -224,7 +224,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  About me:
+  publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -264,10 +264,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _About me
+  # _publications
   - scope:
       path: ""
-      type: About me
+      type: publications
     values:
       layout: single
       author_profile: true
