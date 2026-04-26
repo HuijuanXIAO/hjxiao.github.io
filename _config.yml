@@ -224,7 +224,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  About me:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -264,10 +264,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _About me
   - scope:
       path: ""
-      type: publications
+      type: About me
     values:
       layout: single
       author_profile: true
