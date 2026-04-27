@@ -9,13 +9,13 @@
 
 main:
   - title: "Team"
-    url: /team/       
+    url: /team/     
+
+  - title: "Opportunities"
+    url: /opportunity/  
     
   - title: "Publications"
     url: /publications/
-        
-  - title: "Opportunities"
-    url: /opportunity/
     
   - title: "CV"
     url: /cv/
