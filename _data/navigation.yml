@@ -9,19 +9,16 @@
 
 main:
   - title: "About me"
-    url: /publication/
+    url: /about/
 
   - title: "Team"
-    url: /talks/    
-
-  - title: "Research topics"
-    url: /teaching/    
+    url: /team/       
     
   - title: "Publications"
-    url: /portfolio/
+    url: /publications/
         
   - title: "Opportunities"
-    url: /year-archive/
+    url: /opportunity/
     
   - title: "CV"
     url: /cv/
@@ -29,5 +26,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
