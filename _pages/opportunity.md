@@ -4,6 +4,6 @@ permalink: /opportunity/
 author_profile: true
 ---
 
-## Team
+## 2026
 
-- 2026: Welcome visiting students and HKFPS PhD candidates
+- Welcome visiting students and HKFPS PhD candidates
