@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
 .main__inner {
-    min-height: 60vh;
+    min-height: 360vh;
 }
 </style>
 
