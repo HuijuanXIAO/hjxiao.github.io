@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Emmb42MAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0787-1576"
@@ -51,14 +51,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/5ae8d788e8ac2b1cadca2d03"  # 添加这一行
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  redbook          : "266804917"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
