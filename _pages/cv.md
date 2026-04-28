@@ -4,7 +4,7 @@ title: "Curriculum Vitae"
 author_profile: true
 ---
 
-## PROFESSIONAL PREPARATION
+## Academic positions
 
 | Position | Institution |
 |:---|:---|
@@ -16,10 +16,10 @@ author_profile: true
 
 ---
 
-## RESEARCH INTERESTS
+## Research interests
 
 - **Sustainable Development Goals (SDGs)**  
-  Cross-regional synergies and trade-offs, spatial spillover effects, and transboundary sustainability impacts
+  Sustainability evaluation, interaction analysis, and scenario-based projection
 
 - **Transboundary Environmental Analysis**  
   Impacts through transboundary river systems, trade networks, atmospheric flows, and ocean currents

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jane, an Assistant Professor at Hong Kong Baptist University. I am currently building a new research team and recruiting PhD students for **Fall 2027 intake**.
+Hiiiii, I am Jane, an Assistant Professor at Hong Kong Baptist University. I am currently building a new research team and recruiting PhD students for **Fall 2027 intake**.
 
 ## 1. Application Timeline
 The official application period is from **1 September to 1 December, 2026**. Interested candidates are encouraged to contact me via email as early as possible.
