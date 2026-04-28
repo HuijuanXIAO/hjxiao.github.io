@@ -4,6 +4,5 @@ permalink: /team/
 author_profile: true
 ---
 
-## Team
 
-- 2026: My team launched.
+- Welcome visiting students and HKFPS PhD candidates (2027 Fall)
