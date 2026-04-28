@@ -11,8 +11,8 @@ main:
   - title: "Team"
     url: /team/     
 
-  - title: "Opportunities"
-    url: /opportunity/  
+  #- title: "Opportunities"
+  #  url: /opportunity/  
     
   - title: "Publications"
     url: /publications/
