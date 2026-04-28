@@ -1,64 +1,35 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## PROFESSIONAL PREPARATION
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+| Position | Institution |
+|:---|:---|
+| Research Assistant Professor | The University of Science and Technology |
+| ITF Funded Postdoctoral Fellow | The Hong Kong Polytechnic University |
+| Ph.D. | The Hong Kong Polytechnic University |
+| Visiting Student | The University of Melbourne |
+| Visiting Student | The University of East Anglia |
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## RESEARCH INTERESTS
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Sustainable Development Goals (SDGs)**  
+  Cross-regional synergies and trade-offs, spatial spillover effects, and transboundary sustainability impacts
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Transboundary Environmental Analysis**  
+  Impacts through transboundary river systems, trade networks, atmospheric flows, and ocean currents
+
+- **Carbon Emission Accounting and Mitigation**  
+  CO₂ emission inventories, mitigation pathways, and urban carbon reduction strategies
+
+- **Climate Change Economics**  
+  Economic impacts of climate change, policy evaluation, and low-carbon development pathways
+
+---
+
+*Last updated: April 2026*

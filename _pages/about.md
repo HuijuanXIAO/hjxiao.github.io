@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Join My Research Team at Hong Kong Baptist University"
+title: "Join My Research Team"
 author_profile: true
 redirect_from: 
   - /about/
@@ -32,7 +32,7 @@ I would like to briefly share my research philosophy to help you assess whether 
 - In the final year of the PhD, I will provide opportunities (as appropriate) for students to participate in research proposal writing and grant applications, helping them prepare for future academic careers and the transition to becoming a principal investigator.
 
 ## 5. Contact Information
-Interested candidates are welcome to send their **CV and research interests** to:  
+Interested candidates are welcome to send their **CV and your research** to:  
 **xiaohj@hkbu.edu.hk**
 
 You are also welcome to share this opportunity with others who may be interested. Many thanks!
