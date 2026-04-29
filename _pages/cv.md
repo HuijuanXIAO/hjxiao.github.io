@@ -5,23 +5,17 @@ author_profile: true
 ---
 
 ## Education and Professional Experience
-Assistant Professor  
-Hong Kong Baptist University
+- Assistant Professor, Hong Kong Baptist University
 
-Research Assistant Professor  
-The Hong Kong University of Science and Technology  
+- Research Assistant Professor, The Hong Kong University of Science and Technology  
 
-ITF Funded Postdoctoral Fellow  
-The Hong Kong Polytechnic University  
+- ITF-Funded Postdoctoral Fellow, The Hong Kong Polytechnic University  
 
-Ph.D.  
-The Hong Kong Polytechnic University  
+- Ph.D., The Hong Kong Polytechnic University  
 
-Visiting Student  
-The University of Melbourne  
+- Visiting Student, The University of Melbourne  
 
-Visiting Student  
-The University of East Anglia  
+- Visiting Student, The University of East Anglia  
 
 ---
 
