@@ -9,13 +9,13 @@ redirect_from:
 
 Hiiiii~ I am Jane, an Assistant Professor at Hong Kong Baptist University. I am currently building a new research team and recruiting **PhD students for Fall 2027 intake** and **visiting/exchange student on an ongoing basis**. Interested candidates are welcome to send their CV and your research to ✉️: xiaohj@hkbu.edu.hk  
 
+### Research Areas (See publications for details)
+- Cross-regional sustainability impact analysis: focusing on spatial spillover effects of Sustainable Development Goals (SDGs) driven by supply chain networks and transboundary environmental systems (e.g., river systems, ocean currents, and atmospheric flows).  
+- Carbon accounting and mitigation pathways in urban development.
+
 ### 1. PhD students 🎓
 (1) Application Timeline   
 The official application period is from 1 September to 1 December, 2026. Interested candidates are encouraged to contact me via email as early as possible.
-
-(2) Research Areas  
-- Cross-regional sustainability impact analysis: focusing on spatial spillover effects of Sustainable Development Goals (SDGs) driven by supply chain networks and transboundary environmental systems (e.g., river systems, ocean currents, and atmospheric flows).  
-- Carbon accounting and mitigation pathways in urban development.
 
 (3) Preferred Candidate    
 Master’s students with the following background are encouraged to apply:
