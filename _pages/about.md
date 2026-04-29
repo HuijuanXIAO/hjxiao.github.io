@@ -23,7 +23,7 @@ Master’s students with the following background are encouraged to apply:
 - Experience in academic research and publications, including participation in **JCR Q1/Q2 journal papers** (not necessarily as first or corresponding author; co-authorship is acceptable).
 - English proficiency (candidates without scores yet are still welcome to contact in advance): IELTS > 6.5, TOEFL > 79; applicants from English-medium institutions may be exempt.
 
-### 1. visiting/exchange student
+### 1. Visiting/exchange student
 (1) Duration of Visit   
 3–6 months, from July 1 each year to June 30 of the following year 
 
@@ -39,4 +39,6 @@ Admission requirements may be relaxed for self-funded applicants.
 Master’s students with the following background are encouraged to apply:
 - Undergraduate (Year 3 or 4) or master’s students with interests in research 
 - Graduated from (or are studying at) top-tier universities (e.g., "211", "985”, or “Double First-Class” institutions), with preference given to those with backgrounds in GIS, remote sensing, economics, or AI 
-- Have a GPA of 83/100 or above
+- Have a GPA of 83/100 or above  
+
+![HKBU-funded University List](/assets/images/Visiting_student.png)
