@@ -9,7 +9,7 @@ redirect_from:
 
 Hiiiii~ I am Jane, an Assistant Professor at Hong Kong Baptist University. I am currently building a new research team and recruiting **PhD students for Fall 2027 intake** and **visiting/exchange student on an ongoing basis**. Interested candidates are welcome to send their CV and your research to ✉️: xiaohj@hkbu.edu.hk  
 
-### 1. PhD students
+### 1. PhD students 🎓
 (1) Application Timeline   
 The official application period is from 1 September to 1 December, 2026. Interested candidates are encouraged to contact me via email as early as possible.
 
@@ -23,7 +23,7 @@ Master’s students with the following background are encouraged to apply:
 - Experience in academic research and publications, including participation in **JCR Q1/Q2 journal papers** (not necessarily as first or corresponding author; co-authorship is acceptable).
 - English proficiency (candidates without scores yet are still welcome to contact in advance): IELTS > 6.5, TOEFL > 79; applicants from English-medium institutions may be exempt.
 
-### 1. Visiting/exchange student
+### 2. Visiting/exchange student 🧑
 (1) Duration of Visit   
 3–6 months, from July 1 each year to June 30 of the following year 
 
