@@ -41,4 +41,4 @@ Master’s students with the following background are encouraged to apply:
 - Graduated from (or are studying at) top-tier universities (e.g., "211", "985”, or “Double First-Class” institutions), with preference given to those with backgrounds in GIS, remote sensing, economics, or AI 
 - Have a GPA of 82/100 or above  
 
-![HKBU-funded University List](/images/Visiting_student.png)
+![HKBU-funded University List](/assets/images/Visiting_student.png)
