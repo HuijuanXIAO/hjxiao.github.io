@@ -4,15 +4,24 @@ title: "Curriculum Vitae"
 author_profile: true
 ---
 
-## Academic positions
+## Education and Professional Experience
+Assistant Professor  
+Hong Kong Baptist University
 
-| Position | Institution |
-|:---|:---|
-| Research Assistant Professor | The University of Science and Technology |
-| ITF Funded Postdoctoral Fellow | The Hong Kong Polytechnic University |
-| Ph.D. | The Hong Kong Polytechnic University |
-| Visiting Student | The University of Melbourne |
-| Visiting Student | The University of East Anglia |
+Research Assistant Professor  
+The Hong Kong University of Science and Technology  
+
+ITF Funded Postdoctoral Fellow  
+The Hong Kong Polytechnic University  
+
+Ph.D.  
+The Hong Kong Polytechnic University  
+
+Visiting Student  
+The University of Melbourne  
+
+Visiting Student  
+The University of East Anglia  
 
 ---
 
@@ -22,7 +31,7 @@ author_profile: true
   Sustainability evaluation, interaction analysis, and scenario-based projection
 
 - **Transboundary Environmental Analysis**  
-  Impacts through transboundary river systems, trade networks, atmospheric flows, and ocean currents
+  Impacts through transboundary river systems, road newtorks, trade networks, atmospheric flows, and ocean currents
 
 - **Carbon Emission Accounting and Mitigation**  
   CO₂ emission inventories, mitigation pathways, and urban carbon reduction strategies

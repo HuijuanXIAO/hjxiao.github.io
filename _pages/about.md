@@ -33,7 +33,7 @@ Apply before May 7; Students from the universities listed (see figure below) may
 - Home University-funded:  
 Apply year-round; HKBU can issue an invitation letter to support students in applying for exchange or mobility funding from their home institutions. Many universities offer their own outbound exchange funding schemes, which students are encouraged to explore. 
 - Self-funded:  
-Admission requirements may be relaxed for self-funded applicants. 
+Apply year-round; Admission requirements may be relaxed for self-funded applicants. 
 
 (3) Preferred Candidate    
 Master’s students with the following background are encouraged to apply:
