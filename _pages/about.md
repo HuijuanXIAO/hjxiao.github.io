@@ -19,17 +19,17 @@ The official application period is from 1 September to 1 December, 2026. Interes
 
 (3) Preferred Candidate    
 Master’s students with the following background are encouraged to apply:
-- A bachelor’s degree from top-tier universities (e.g., "211", "985", "Double First-Class" universities, or overseas institutions), with a GPA above **84/100**; candidates with a background in remote sensing / economics / AI are preferred.
-- Experience in academic research and publications, including participation in **JCR Q1/Q2 journal papers** (not necessarily as first or corresponding author; co-authorship is acceptable).
+- A bachelor’s degree from top-tier universities (e.g., "211", "985", "Double First-Class" universities, or overseas institutions), with a GPA above 84/100; candidates with a background in remote sensing / economics / AI are preferred.
+- Experience in academic research and publications, including participation in JCR Q1/Q2 journal papers (not necessarily as first or corresponding author; co-authorship is acceptable).
 - English proficiency (candidates without scores yet are still welcome to contact in advance): IELTS > 6.5, TOEFL > 79; applicants from English-medium institutions may be exempt.
 
 ### 2. Visiting/exchange student 🧑
 (1) Duration of Visit   
 3–6 months, from July 1 each year to June 30 of the following year 
 
-(2) Funding Options (Choose 1) 
+(2) Funding Options
 - HKBU-funded:  
-Apply before May 7; Students from the universities listed (see figure below) may apply for HKBU funding, which provides HKD 25,000–35,000 to cover basic expenses such as travel, accommodation, visa, and insurance. 
+Apply before May 7; Students from the universities listed (**see figure below**) may apply for HKBU funding, which provides HKD 25,000–35,000 to cover basic expenses such as travel, accommodation, visa, and insurance. 
 - Home University-funded:  
 Apply year-round; HKBU can issue an invitation letter to support students in applying for exchange or mobility funding from their home institutions. Many universities offer their own outbound exchange funding schemes, which students are encouraged to explore. 
 - Self-funded:  
@@ -39,6 +39,6 @@ Apply year-round; Admission requirements may be relaxed for self-funded applican
 Master’s students with the following background are encouraged to apply:
 - Undergraduate (Year 3 or 4) or master’s students with interests in research 
 - Graduated from (or are studying at) top-tier universities (e.g., "211", "985”, or “Double First-Class” institutions), with preference given to those with backgrounds in GIS, remote sensing, economics, or AI 
-- Have a GPA of 83/100 or above  
+- Have a GPA of 82/100 or above  
 
 ![HKBU-funded University List](/assets/images/Visiting_student.png)
