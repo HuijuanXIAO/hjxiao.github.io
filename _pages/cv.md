@@ -36,8 +36,8 @@ The University of East Anglia
 - **Carbon Emission Accounting and Mitigation**  
   CO₂ emission inventories, mitigation pathways, and urban carbon reduction strategies
 
-- **Climate Change Economics**  
-  Economic impacts of climate change, policy evaluation, and low-carbon development pathways
+- **Microclimate and Heat exploure**   
+  Urban microclimate simulation and assessment of human thermal comfort in built environments, and evaluating mitigation strategies to reduce heat stress.
 
 ---
 
