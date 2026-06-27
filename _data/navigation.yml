@@ -19,6 +19,11 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Projects"
+    children:
+      - title: "UAV Delivery and Conventional Logistics Comparison"
+        url: /files/webpage/UAV_Delivery_and_Conventional_Logistics_Comparison.html
     
   # - title: "CV"
   #   url: /cv-json/
