@@ -21,9 +21,6 @@ author_profile: true
 
 ## Research interests
 
-- **Sustainable Development Goals (SDGs)**  
-  Sustainability evaluation, interaction analysis, and scenario-based projection
-
 - **Transboundary Environmental Analysis**  
   Impacts through transboundary river systems, road newtorks, trade networks, atmospheric flows, and ocean currents
 
