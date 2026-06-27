@@ -17,7 +17,7 @@ Hiiiii~ I am Jane, an Assistant Professor at Hong Kong Baptist University. I am 
 (1) Application Timeline   
 The official application period is from 1 September to 1 December, 2026. Interested candidates are encouraged to contact me via email as early as possible.
 
-(3) Preferred Candidate    
+(2) Preferred Candidate    
 Master’s students with the following background are encouraged to apply:
 - A bachelor’s degree from top-tier universities (e.g., "211", "985", "Double First-Class" universities, or overseas institutions), with a GPA above 84/100; candidates with a background in remote sensing / economics / AI are preferred.
 - Experience in academic research and publications, including participation in JCR Q1/Q2 journal papers (not necessarily as first or corresponding author; co-authorship is acceptable).
